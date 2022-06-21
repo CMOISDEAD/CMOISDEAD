@@ -1,7 +1,7 @@
 ![doom-dev](./assets/banner.png)
 
-<p align="center">Doom Dev</p>
-
+<p align="center">Hi There!</p>
+<hr/>
 <div id="badges" align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
