@@ -1,3 +1,7 @@
+![doom-dev](./assets/banner.png)
+
+<p align="center">Doom Dev</p>
+
 <div id="badges" align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,7 +15,10 @@
 </div>
 
 ### :man_technologist: About Me :
+
 ### :hammer_and_wrench: Languages and Tools :
+
 ### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CMOISDEAD&theme=gruvbox&background=1d2021)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CMOISDEAD&layout=compact&theme=gruvbox&background=1d2021)](https://github.com/anuraghazra/github-readme-stats)
