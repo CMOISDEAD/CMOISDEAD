@@ -1,3 +1,7 @@
+<div  align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31k4zbwlwm5jdxvpv6vyxikxkpu4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="cmoisdead spotify songs" style="width: 150px; border-radius: 5px;"/>
+</div>
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -8,4 +12,4 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka--> 
