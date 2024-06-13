@@ -1,5 +1,5 @@
 <div  align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31k4zbwlwm5jdxvpv6vyxikxkpu4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="cmoisdead spotify songs" style="width: 200px; border-radius: 5px;" align="right"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31k4zbwlwm5jdxvpv6vyxikxkpu4&cover_image=true&theme=default&show_offline=false&background_color=12121200&interchange=false" alt="cmoisdead spotify songs" style="width: 200px; border-radius: 5px;" align="right"/>
 </div>
 
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
