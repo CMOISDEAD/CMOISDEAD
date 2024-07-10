@@ -14,7 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Prisma       1 hr 8 mins     █████████████▒░░░░░░░░░░░   52.83 %
+TypeScript   48 mins         █████████▒░░░░░░░░░░░░░░░   37.27 %
+Bash         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+gitignore    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+TSConfig     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka--> 
