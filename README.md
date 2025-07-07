@@ -2,9 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 13 mins   █████████████████████▒░░░   85.81 %
-Org          18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
-Bash         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+TypeScript   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka--> 
