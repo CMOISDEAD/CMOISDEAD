@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        30 hrs 38 mins  ███████████████████▓░░░░░   78.84 %
-Prisma            2 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-Bash              2 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-hyprlang          1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Markdown          55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+TypeScript   35 hrs 22 mins  ████████████████████▒░░░░   81.22 %
+Bash         2 hrs 32 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Prisma       2 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+hyprlang     1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Markdown     44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka--> 
