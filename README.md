@@ -2,7 +2,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Lua          28 mins         ████████████████▓░░░░░░░░   66.24 %
+TypeScript   13 mins         ████████░░░░░░░░░░░░░░░░░   32.22 %
+hyprlang     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka--> 
