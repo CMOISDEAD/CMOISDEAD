@@ -1,8 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TOML   0 secs          ██████████████████████▒░░   89.47 %
-kdl    0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 
