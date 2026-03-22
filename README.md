@@ -1,11 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other      19 mins               ███████░░░░░░░░░░░░░░░░░░   28.62 %
-Markdown   17 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.68 %
-Org        16 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.96 %
-TOML       10 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
-Lua        5 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 
