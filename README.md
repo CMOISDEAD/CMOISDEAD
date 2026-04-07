@@ -1,10 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-kdl     9 mins                ██████████████████░░░░░░░   72.39 %
-conf    3 mins                ██████▓░░░░░░░░░░░░░░░░░░   26.29 %
-Lua     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 
